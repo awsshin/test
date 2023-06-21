@@ -30,3 +30,4 @@ public class Main {
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported 
 - [x] list syntax required (any unordered or ordered list supported)
 
+\*literal asterisks\*
