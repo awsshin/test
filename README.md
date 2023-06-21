@@ -13,3 +13,7 @@
 안녕하세요  
 안녕하세요
 안녕하세요
+
+![git pic](/images/opensearch_select_tenant.png)
+
+<a href="#"><img src="https://github.com/awsshin/test/images/opensearch_select_tenant.png" width="400px" alt="git pic"></a>
